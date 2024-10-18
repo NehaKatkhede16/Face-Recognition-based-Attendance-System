@@ -30,3 +30,5 @@ Project Flow & Explanation 🚀
 - 
 View Attendance 📊
 -After recording attendance, click "View Attendance" to see the records in a neat, tabular format.
+
+Just follow me and Star⭐ my repository!!
